@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "image": "Lion.jpg"
+    },
+    {
+      "id": 2,
+      "image": "Tiger.jpg"    
+    },
+    {
+      "id": 3,
+      "image": "Cougar.jpg"
+    },
+    {
+      "id": 4,
+      "image": "Leopard.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "Cheetah.jpg"
+    },
+    {
+      "id": 6,
+      "image": "Jaguar.jpg"
+    },
+    {
+      "id": 7,
+      "image": "Panther.jpg"
+    },
+    {
+      "id": 8,
+      "image": "Snow Leopard.jpg"
+    }
+]   
